@@ -18,3 +18,8 @@ For best scores, you need to have as many moves as possible in a single command.
  - fixed a few bugs
  - win system is now in place
  - added an easter egg
+
+## Limitations
+ 
+ - tried to input full color background. failed horribly.
+ - the 'bonus' doesnt work
